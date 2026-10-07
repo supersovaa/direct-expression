@@ -34,7 +34,7 @@ Choose the verb or state that most directly expresses the intended result.
 When a draft contains a negative construction, derive the intended positive action, state, condition, boundary, or alternative before deciding whether the negative wording is necessary.
 
 Use the following patterns as non-exhaustive prompts rather than mechanical substitutions.
-Use only actions, states, conditions, evidence, sources, alternatives, owners, locations, or assignments already established by the surrounding requirement; an affirmative rewrite must not introduce a new requirement.
+Use only actions, states, conditions, evidence, sources, alternatives, owners, locations, or assignments already established by the surrounding requirement. Keep every affirmative rewrite within those established requirements.
 
 - `When A, do not B.` -> `Do B only when not A.` When `not A` has an exact affirmative state name, use that name.
 - `Do not ignore X.` -> `Consider X.`
