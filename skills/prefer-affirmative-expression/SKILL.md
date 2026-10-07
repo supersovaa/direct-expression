@@ -9,7 +9,7 @@ Choose wording that directly names the intended action, state, condition, or bou
 
 ## Core rule
 
-For each operative statement, identify the behavior or truth condition that should remain after reading it.
+For each generated statement, identify the action, state, condition, boundary, or fact it should convey.
 When an equivalent affirmative formulation expresses that meaning precisely, use it.
 Favor verbs that state the target behavior itself, such as distinguish, include, preserve, verify, assign, consider, retain, require, select, accept, and reject.
 Keep semantic precision ahead of stylistic preference.
@@ -36,10 +36,10 @@ Treat the final response as part of the skill's behavior.
 
 During the final wording pass:
 
-1. Identify operative sentences framed through negation or avoidance.
-2. Derive the positive action, state, condition, or boundary they intend.
-3. Use the affirmative form when it preserves the same meaning and force.
-4. Confirm that each remaining negative construction carries distinct semantics.
+1. Identify the meaning each sentence or clause should convey.
+2. Choose the direct affirmative action, state, condition, boundary, or fact that expresses that meaning.
+3. Preserve the same meaning and force in the final wording.
+4. Keep a negative construction when its polarity carries distinct semantics.
 
 ## Preserve semantic force
 
@@ -61,7 +61,7 @@ Apply both responsibilities in sequence:
 
 Before finalizing prose, confirm that:
 
-- operative guidance states the intended behavior directly;
+- each generated sentence or clause states its intended meaning directly;
 - error-origin wording has been translated into target behavior;
 - the preferred verbs describe what to do, preserve, distinguish, or verify;
 - each remaining negative construction adds semantic information;
