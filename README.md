@@ -1,4 +1,4 @@
-# avoid-redundant-negation
+# direct-expression
 
 否定表現に関する二つの軽量スキルを公開します。
 
@@ -8,7 +8,7 @@
 
 肯定形の規則ですでに境界が定まっているとき、その補集合や同義の禁止事項を否定文で重ねて書く冗長さを整理します。
 
-実際の規則は [`SKILL.md`](./SKILL.md) を参照してください。
+実際の規則は [`skills/avoid-redundant-negation/SKILL.md`](./skills/avoid-redundant-negation/SKILL.md) を参照してください。
 
 ### prefer-affirmative-expression
 
