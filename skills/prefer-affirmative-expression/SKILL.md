@@ -1,6 +1,6 @@
 ---
 name: prefer-affirmative-expression
-description: Prefers direct affirmative wording when an equivalent affirmative action, state, condition, or boundary is available. Use when drafting or revising assistant responses, reviews, specifications, instructions, and explanations so the wording names the intended behavior directly.
+description: Prefers direct affirmative wording when an equivalent affirmative action, state, condition, boundary, or fact is available. Use when drafting or revising assistant responses, reviews, specifications, instructions, and explanations so the wording names the intended behavior directly.
 ---
 
 # Prefer Affirmative Expression
@@ -54,7 +54,7 @@ This skill owns the expression form of each idea.
 
 Apply both responsibilities in sequence:
 
-1. Express each operative idea in its clearest affirmative form when equivalent wording exists.
+1. Express each idea in its clearest affirmative form when equivalent wording exists.
 2. Consolidate repeated boundaries with `avoid-redundant-negation`.
 
 ## Completion check
