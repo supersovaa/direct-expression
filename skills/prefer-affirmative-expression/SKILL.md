@@ -45,7 +45,7 @@ Use the following patterns as non-exhaustive prompts rather than mechanical subs
 - `Do not duplicate X.` -> state the unique owner, location, or assignment for X.
 - `Do not leave scope S.` -> `Work within scope S.`
 - `Do not use X.` -> state the required alternative when one is defined.
-- `Do not B before C.` -> `Do B after C.` or `Do B when C is complete.`
+- `Do not B before C.` -> `Do B only after C.` or `Do B only when C is complete.`
 
 For a conditional prohibition, use the inverse condition only when it preserves the same decision boundary.
 
