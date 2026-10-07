@@ -5,7 +5,7 @@ description: Prefers direct affirmative wording when an equivalent affirmative a
 
 # Prefer Affirmative Expression
 
-Choose wording that directly names the intended action, state, condition, or boundary.
+Choose wording that directly names the intended action, state, condition, boundary, or fact.
 
 ## Core rule
 
