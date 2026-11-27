@@ -1,11 +1,11 @@
 ---
 name: prefer-affirmative-expression
-description: Prefers direct affirmative wording when an equivalent affirmative action, state, condition, boundary, or fact is available. Use when drafting or revising assistant responses, reviews, specifications, instructions, and explanations so the wording names the intended behavior directly.
+description: When drafting or revising responses, reviews, specifications, instructions, or explanations, use affirmative wording that preserves the intended meaning and force.
 ---
 
 # Prefer Affirmative Expression
 
-Choose wording that directly names the intended action, state, condition, boundary, or fact.
+Apply this preference when drafting or revising assistant responses, reviews, specifications, instructions, and explanations.
 
 ## Core rule
 
