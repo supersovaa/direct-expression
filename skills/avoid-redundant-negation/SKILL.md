@@ -1,15 +1,11 @@
 ---
 name: avoid-redundant-negation
-description: Avoids redundant negative statements when a positive rule already determines the same boundary. Use when writing or revising rules, specifications, instructions, reviews, or technical documentation to avoid restating logical complements, defensive caveats, and equivalent prohibitions unless they add an independent constraint or exception.
+description: When writing or revising rules, specifications, instructions, reviews, or technical docs, remove negation that repeats a positive rule. Keep independent constraints and exceptions.
 ---
 
 # Avoid Redundant Negation
 
-State a rule once, as directly as possible.
-
-This skill prevents a common pattern in which a positive rule is followed by several negative sentences that restate the same boundary, deny nearby interpretations, or enumerate the rule's logical complement without adding a new constraint.
-
-The goal is compact, closed rule writing rather than blanket removal of negative wording.
+When editing a rule, check what each negative sentence adds. A prohibition or exception may carry independent meaning. A sentence that merely repeats the boundary already set by a positive rule can go.
 
 ## Core rule
 
