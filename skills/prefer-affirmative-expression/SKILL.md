@@ -1,11 +1,11 @@
 ---
 name: prefer-affirmative-expression
-description: When drafting or revising responses, reviews, specifications, instructions, or explanations, use affirmative wording that preserves the intended meaning and force.
+description: Use when drafting or revising assistant responses, reviews, specifications, instructions, or explanations. Prefer direct wording that preserves meaning and force.
 ---
 
 # Prefer Affirmative Expression
 
-Apply this preference when drafting or revising assistant responses, reviews, specifications, instructions, and explanations.
+When choosing how to express a point, use an affirmative formulation if it states the intended behavior as precisely and with the same force.
 
 ## Core rule
 
