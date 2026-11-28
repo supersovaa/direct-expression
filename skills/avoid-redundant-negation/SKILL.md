@@ -1,11 +1,11 @@
 ---
 name: avoid-redundant-negation
-description: When writing or revising rules, specifications, instructions, reviews, or technical docs, remove negation that repeats a positive rule. Keep independent constraints and exceptions.
+description: Use when drafting or revising rules, specifications, instructions, reviews, or technical documentation. Check for negation that repeats a rule.
 ---
 
 # Avoid Redundant Negation
 
-When editing a rule, check what each negative sentence adds. A prohibition or exception may carry independent meaning. A sentence that merely repeats the boundary already set by a positive rule can go.
+When drafting or editing a rule, check what each negative sentence adds. A prohibition or exception may carry independent meaning. A sentence that merely repeats the boundary already set by a positive rule can go.
 
 ## Core rule
 
